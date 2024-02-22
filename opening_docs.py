@@ -1,6 +1,5 @@
 # Author: Cassio Dalla Barba Everling
-# Date:
-# Description:
+# Description: Opens a Notion page and returns a random line of the file
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
